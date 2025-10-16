@@ -1,7 +1,7 @@
 body {
-  background-color: #3366ff;  /* diperbaiki dari background-colour */
+  background-color: #3366ff;
   font-family: sans-serif;
-  color: #66ffff;             /* diperbaiki dari colour */
+  color: #66ffff;
 }
 
 .kartu-profil {
@@ -18,4 +18,3 @@ body {
   width: 150px;
   border-radius: 50%;
 }
-
